@@ -7,7 +7,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "apn": "1.6.0",
+    "apn": "git://github.com/argon/node-apn.git#71cbc6a34199c7d16388e0ae62f9bba77def7123",
     "bluebird": "~1.0.4",
     "knex": "~0.7.3",
     "lodash": "~2.4.1",
