@@ -25,7 +25,7 @@
     "elasticsearch": "~1.5.10",
     "dateformat": "~1.0.7-1.2.3",
     "memcached": "~0.2.6",
-    "scrypt": "~1.7.4",
+    "scrypt": "~6.0.3",
     "hashring": "~3.2.0"
   },
   "devDependencies": {
