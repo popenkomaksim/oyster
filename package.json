@@ -26,7 +26,7 @@
     "dateformat": "~1.0.7-1.2.3",
     "memcached": "~0.2.6",
     "scrypt": "~1.7.4",
-    "hashring": "~1.0.3"
+    "hashring": "~3.2.0"
   },
   "devDependencies": {
     "grunt-cli": "~0.1.11",
